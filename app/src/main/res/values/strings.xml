@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InvioUsgChallenge</string>
+    <string name="no_internet">Lütfen internet bağlantınızı kontrol ediniz.</string>
+    <string name="error_occured">Bir problem oluştu.</string>
+    <string name="search_hint">Search a movie..</string>
+    <string name="search">Search</string>
+    <string name="title_cinema">Sinema</string>
+    <string name="title_movie_detail">Film Detayı</string>
+</resources>
